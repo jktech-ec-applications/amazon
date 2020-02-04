@@ -1,0 +1,1 @@
+HTML is actually a markup language and not a scripting language. Scripting implies decision making capabilities (the code can actually evaluate and take an action based on what it finds) – PHP, PERL, Ruby, Javascript are examples of
